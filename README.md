@@ -9,3 +9,5 @@ run `tetris` with the `autotetris-mode` minor mode enabled, which
 tells Emacs to play automatically. The mode can be enabled or disabled
 at any time, allowing a human to either take control or pass back
 control mid-game.
+
+![](http://i.imgur.com/Xyiekju.png)
