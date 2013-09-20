@@ -34,12 +34,12 @@
 
 ;; Current shortcomings:
 
-;; The weights could using some tweaking because some of the
-;; priorities are obviously wrong at times. It does not account for
-;; the next piece. It does not attempt to "slide" pieces into place.
-;; It does not try to maximize score (the score is not part of the
-;; evaluation algorithm). The evaluation function is kind of slow, so
-;; you should byte-compile this file.
+;; The weights could using some tweaking because the priorities are
+;; obviously wrong at times. It does not account for the next piece,
+;; which sometimes has tragic consequences. It does not attempt to
+;; "slide" pieces into place. It does not try to maximize score (the
+;; score is not part of the evaluation algorithm). The evaluation
+;; function is kind of slow, so you should byte-compile this file.
 
 ;;; Code:
 
