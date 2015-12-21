@@ -10,4 +10,6 @@ tells Emacs to play automatically. The mode can be enabled or disabled
 at any time, allowing a human to either take control or pass back
 control mid-game.
 
+* [How does it work?](http://nullprogram.com/blog/2014/10/19/)
+
 ![](http://i.imgur.com/Xyiekju.png)
